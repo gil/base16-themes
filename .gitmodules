@@ -1,0 +1,18 @@
+[submodule "schemes/base16-gruvbox-scheme"]
+	path = schemes/base16-gruvbox-scheme
+	url = https://github.com/dawikur/base16-gruvbox-scheme.git
+[submodule "templates/base16-fzf"]
+	path = templates/base16-fzf
+	url = https://github.com/fnune/base16-fzf
+[submodule "templates/base16-iterm2"]
+	path = templates/base16-iterm2
+	url = https://github.com/martinlindhe/base16-iterm2
+[submodule "templates/base16-tmux"]
+	path = templates/base16-tmux
+	url = https://github.com/mattdavis90/base16-tmux
+[submodule "templates/base16-vim-airline-themes"]
+	path = templates/base16-vim-airline-themes
+	url = https://github.com/dawikur/base16-vim-airline-themes
+[submodule "templates/base16-vim"]
+	path = templates/base16-vim
+	url = https://github.com/chriskempson/base16-vim
