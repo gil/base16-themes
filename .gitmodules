@@ -6,7 +6,7 @@
 	url = https://github.com/fnune/base16-fzf
 [submodule "templates/base16-iterm2-alternative-fg"]
 	path = templates/base16-iterm2-alternative-fg
-	url = https://github.com/agil/base16-iterm2-alternative-fg
+	url = https://github.com/gil/base16-iterm2-alternative-fg.git
 [submodule "templates/base16-tmux"]
 	path = templates/base16-tmux
 	url = https://github.com/mattdavis90/base16-tmux
