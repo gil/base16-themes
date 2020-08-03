@@ -16,3 +16,6 @@
 [submodule "schemes/base16-dracula-scheme"]
 	path = schemes/base16-dracula-scheme
 	url = https://github.com/dracula/base16-dracula-scheme
+[submodule "templates/base16-vim-airline"]
+	path = templates/base16-vim-airline
+	url = https://github.com/fnurl/base16-vim-airline
