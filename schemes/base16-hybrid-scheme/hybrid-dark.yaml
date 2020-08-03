@@ -1,0 +1,18 @@
+scheme: "hybrid"
+author: "Andrew Wong (https://github.com/w0ng/vim-hybrid), base16 by Andre Gil (https://github.com/gil)"
+base00: "1E1F22" # 0
+base01: "A6B255" # 10
+base02: "EBBB61" # 11
+base03: "2A2D32" # 8
+base04: "6F90B0" # 12
+base05: "5D656D" # 7
+base06: "A27FAD" # 13
+base07: "B9BCBA" # 15
+base08: "922F33" # 1
+base09: "BF5053" # 9
+base0A: "D4804D" # 3
+base0B: "7A8431" # 2
+base0C: "4D7B74" # 6
+base0D: "4D6D8B" # 4
+base0E: "71527C" # 5
+base0F: "79B2A8" # 14
