@@ -4,9 +4,9 @@
 [submodule "templates/base16-fzf"]
 	path = templates/base16-fzf
 	url = https://github.com/fnune/base16-fzf
-[submodule "templates/base16-iterm2"]
-	path = templates/base16-iterm2
-	url = https://github.com/martinlindhe/base16-iterm2
+[submodule "templates/base16-iterm2-alternative-fg"]
+	path = templates/base16-iterm2-alternative-fg
+	url = https://github.com/agil/base16-iterm2-alternative-fg
 [submodule "templates/base16-tmux"]
 	path = templates/base16-tmux
 	url = https://github.com/mattdavis90/base16-tmux
