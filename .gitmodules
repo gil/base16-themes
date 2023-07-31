@@ -3,7 +3,7 @@
 	url = https://github.com/dawikur/base16-gruvbox-scheme.git
 [submodule "templates/base16-fzf"]
 	path = templates/base16-fzf
-	url = https://github.com/fnune/base16-fzf
+	url = https://github.com/tinted-theming/base16-fzf.git
 [submodule "templates/base16-iterm2-alternative-fg"]
 	path = templates/base16-iterm2-alternative-fg
 	url = https://github.com/gil/base16-iterm2-alternative-fg.git
